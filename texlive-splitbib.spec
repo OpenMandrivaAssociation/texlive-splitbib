@@ -6,7 +6,7 @@
 # catalog-version 1.17
 Name:		texlive-splitbib
 Version:	1.17
-Release:	8
+Release:	9
 Summary:	Split and reorder your bibliography
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/splitbib
